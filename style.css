@@ -1,0 +1,29 @@
+.section-1, .section-3{
+    padding: 100px 0;
+}
+img{
+    max-width: 100%;
+}
+.section-2{
+    padding: 100px 0;
+    background: #ddd;
+}
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+}
+.my-tabs{
+    margin: 100px auto;
+    width: 75%;
+}
+.about-h{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0;
+}
+.h-left{
+  width: 30%;  
+}
+.h-right{
+    width: 65%;
+}
